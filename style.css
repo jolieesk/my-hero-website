@@ -91,4 +91,21 @@ body {
 }
 .why{
   font-size: 15px;
+  margin: auto;
+  text-align: center;
+  border: 2px solid blue;
+  font-weight: 650;
+}
+.new{
+  font-size: 15px;
+  margin: auto;
+  text-align: center;
+  border: 3px solid black;
+  font-weight: 650;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
 }
